@@ -1,6 +1,6 @@
 ![Computer Programmer ](https://pbs.twimg.com/profile_banners/1587843909044273152/1704183762/600x200)
-########### Hi there 👋, I'm Akram Rafid
-#### Computer Programmer 
+###### Hi there 👋, I'm Akram Rafid
+### Computer Programmer 
 
 C++ DSA is my battleground, where I conquer algorithms with precision. But I'm no barbarian; I forge elegant, object-oriented solutions in Java and Python, crafting modular empires. Outside the code arena, I'm a collaborative explorer, always seeking knowledge and inspiring voyages with fellow coders. Let's build something remarkable, where efficiency reigns and beauty blooms. Join me, and together we'll weave code into something truly legendary. 
 
