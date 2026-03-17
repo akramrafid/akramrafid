@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=61DAFB¢er=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Akram+Rafid+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;Flutter+Developer+%F0%9F%93%B1;Check+my+Portfolio+%F0%9F%94%97;Building+products+people+love+%F0%9F%9A%80;Clean+Code.+Real+Impact.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF¢er=true&vCenter=true&width=760&lines=Hey+there%2C+I'm+Akram+Rafid+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;Flutter+Developer+%F0%9F%93%B1;Portfolio+%E2%86%92+akramrafidportfolio.vercel.app;Clean+code.+Real+impact.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61dafb,50:02569b,100:7b2ff7&height=130§ion=header&text=Akram%20Rafid&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web+Developer+%7C+Flutter+Developer&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:5b3ef5,100:00d4a8&height=130§ion=header&text=Akram%20Rafid&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web+Developer+%7C+Flutter+Developer&descAlignY=62&descAlign=50" width="100%"/>
 
 <br/>
 
-![Web Developer](https://img.shields.io/badge/🌐_Web_Developer-61DAFB?style=for-the-badge&color=0d1b2e&labelColor=61dafb&logoColor=000)
-![Flutter Developer](https://img.shields.io/badge/📱_Flutter_Developer-02569B?style=for-the-badge&logoColor=fff)
-[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-00F5FF?style=for-the-badge&color=0a1628&labelColor=00f5ff&logoColor=000)](https://akramrafidportfolio.vercel.app)
-![Bangladesh](https://img.shields.io/badge/📍_Bangladesh-00FF88?style=for-the-badge&color=0d2a1a&labelColor=00ff88&logoColor=000)
-![Open to Work](https://img.shields.io/badge/🤝_Open_to_Internships-7B2FF7?style=for-the-badge&logoColor=fff)
+![Web Developer](https://img.shields.io/badge/🌐_Web_Developer-00E5FF?style=for-the-badge&color=050d1c&labelColor=00e5ff&logoColor=000)
+![Flutter Developer](https://img.shields.io/badge/📱_Flutter_Developer-5B3EF5?style=for-the-badge&color=0d0820&labelColor=5b3ef5&logoColor=fff)
+[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-00D4A8?style=for-the-badge&color=04130f&labelColor=00d4a8&logoColor=000)](https://akramrafidportfolio.vercel.app)
+![Bangladesh](https://img.shields.io/badge/📍_Bangladesh-F5A623?style=for-the-badge&color=130d02&labelColor=f5a623&logoColor=000)
+![Open to Work](https://img.shields.io/badge/🤝_Open_to_Internships-FF4D7D?style=for-the-badge&color=130208&labelColor=ff4d7d&logoColor=fff)
 
 </div>
 
@@ -27,42 +27,41 @@ const akramRafid = {
   location:  "Bangladesh 🇧🇩",
   education: "CS Undergrad",
 
-  webStack:     ["React", "TypeScript", "Next.js", "Node.js", "PostgreSQL"],
-  mobileStack:  ["Flutter", "Dart", "Firebase"],
+  webStack:    ["React", "Next.js", "TypeScript", "Node.js", "PostgreSQL"],
+  mobileStack: ["Flutter", "Dart", "Firebase", "Riverpod"],
 
   portfolio:         "https://akramrafidportfolio.vercel.app",
   currentlyBuilding: "StudyHub — academic platform for students",
-  goal:     "Land a SWE Internship · Ship products people love",
-  openTo:   true, // internships, collaborations, open-source
+  goal:   "Ship products people love · Land a SWE Internship",
+  openTo: true, // internships · collaborations · open-source
 };
 ```
 
-- 🌐 Building **fast, clean, scalable web apps** end-to-end
-- 📱 Crafting **smooth cross-platform mobile apps** with Flutter & Dart
+- 🌐 Building **fast, scalable, production-ready web apps** end-to-end
+- 📱 Crafting **smooth cross-platform mobile apps** with Flutter & Dart  
 - 🔗 Portfolio: **[akramrafidportfolio.vercel.app](https://akramrafidportfolio.vercel.app)**
-- 🔭 Currently: **[StudyHub](https://github.com/akramrafid/StudyHub)** — academic tools for students
-- 🤝 Open to: **internships, collaborations, open-source contributions**
-- 📫 Reach me: **[LinkedIn](https://linkedin.com/in/akram-rafid-rahat)**
+- 🔭 Currently shipping: **[StudyHub](https://github.com/akramrafid/StudyHub)**
+- 🤝 Open to: **internships, collaborations, open-source**
+- 📫 Contact: **[LinkedIn](https://linkedin.com/in/akram-rafid-rahat)**
 
 <br/>
 
 ---
 
-## 🌐 Web Development Stack
+## 🌐 Web Stack
 
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
-## 📱 Flutter / Mobile Stack
+## 📱 Flutter Stack
 
 <div align="center">
 
@@ -70,7 +69,7 @@ const akramRafid = {
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FF9100?style=for-the-badge&logo=firebase&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
@@ -106,7 +105,7 @@ const akramRafid = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 
@@ -120,10 +119,10 @@ const akramRafid = {
 
 | Project | Type | Description | Stack |
 |---------|------|-------------|-------|
-| [📡 StudyHub](https://github.com/akramrafid/StudyHub) | 🌐 Web | Academic collaboration platform | TypeScript, React |
-| [📱 Flutter Apps](https://github.com/akramrafid/Dart-Programming) | 📱 Mobile | Cross-platform apps for Android & iOS | Flutter, Dart |
+| [📡 StudyHub](https://github.com/akramrafid/StudyHub) | 🌐 Web | Academic collaboration platform for students | TypeScript, React |
+| [📱 Flutter Apps](https://github.com/akramrafid/Dart-Programming) | 📱 Mobile | Cross-platform Android & iOS apps | Flutter, Dart |
 | [⚙️ CPU-Scheduling](https://github.com/akramrafid/CPU-Scheduling) | 🌐 Web | OS scheduling visualizer with Gantt charts | TypeScript |
-| [🐍 Python-DSA](https://github.com/akramrafid/Python-Programming) | 📚 DSA | Data structures & algorithms, interview-ready | Python |
+| [🐍 Python-DSA](https://github.com/akramrafid/Python-Programming) | 📚 DSA | Interview-ready data structures & algorithms | Python |
 
 ---
 
@@ -131,22 +130,22 @@ const akramRafid = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akramrafid&custom_title=Akram's%20Contribution%20Graph&bg_color=1a1b27&color=61dafb&line=02569b&point=7b2ff7&area=true&hide_border=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=akramrafid&custom_title=Akram's+Contribution+Graph&bg_color=04070f&color=00e5ff&line=5b3ef5&point=00d4a8&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-Visit_Now-00F5FF?style=for-the-badge&color=0a1628&labelColor=00f5ff&logoColor=000)](https://akramrafidportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-Visit_Now-00D4A8?style=for-the-badge&color=04130f&labelColor=00d4a8&logoColor=000)](https://akramrafidportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akram-rafid-rahat)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akramrafidraha)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akram_rafid_)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/akramrafidrahat)
-![Profile Views](https://komarev.com/ghpvc/?username=akramrafid&color=61dafb&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=akramrafid&color=00e5ff&style=for-the-badge)
 
 </div>
 
@@ -154,8 +153,8 @@ const akramRafid = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:02569b,100:61dafb&height=100§ion=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4a8,50:5b3ef5,100:00e5ff&height=100§ion=footer" width="100%"/>
 
-*⭐ Star my repos if they helped you — it keeps me building.*
+*⭐ If my work helped you — a star keeps me building.*
 
 </div>
