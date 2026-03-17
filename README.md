@@ -44,7 +44,7 @@ const akramRafid = {
 
 <br/>
 
-- 🌐 **Web:** end-to-end apps — DB, API, UI, deployed
+- 🌐 **Web:** end-to-end apps DB, API, UI, deployed
 - 📱 **Flutter:** one codebase, Android + iOS, buttery smooth
 - 🔗 **Portfolio:** [akramrafidportfolio.vercel.app](https://akramrafidportfolio.vercel.app)
 - 🔭 **Shipping:** [StudyHub](https://github.com/akramrafid/StudyHub)
@@ -161,6 +161,6 @@ const akramRafid = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4db8ff,50:39ff9f,100:b8ff3a&height=100§ion=footer" width="100%"/>
 
-**If it helped — star it. It keeps me shipping.**
+**If it helped, star it. It keeps me shipping.**
 
 </div>
