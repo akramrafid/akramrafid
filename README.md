@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3000&pause=1000&color=B8FF3A¢er=true&vCenter=true&width=760&lines=AKRAM+RAFID;Web+Developer+%F0%9F%8C%90+%7C+Flutter+Developer+%F0%9F%93%B1;I+build+things+that+run+in+browsers+%26+pockets;Portfolio+%E2%86%92+akramrafidportfolio.vercel.app;Clean+code.+Shipped+products.+Real+impact.)](https://git.io/typing-svg)
+font=IBM+Plex+Mono&weight=600&size=22&duration=3000&pause=1000&color=B8FF3A¢er=true&vCenter=true&width=760&lines=AKRAM+RAFID;Web+Developer+%F0%9F%8C%90+%7C+Flutter+Developer+%F0%9F%93%B1;I+build+things+that+run+in+browsers+%26+pockets;Portfolio+%E2%86%92+akramrafidportfolio.vercel.app;Clean+code.+Shipped+products.+Real+impact.)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8ff3a,40:39ff9f,100:4db8ff&height=120§ion=header&text=AKRAM+RAFID&fontSize=40&fontColor=000&animation=fadeIn&fontAlignY=36&desc=Web+Developer+%7C+Flutter+Developer&descAlignY=58&descAlign=50&descColor=000" width="100%"/>
 
