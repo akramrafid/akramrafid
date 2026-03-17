@@ -3,7 +3,6 @@
 <!-- ANIMATED TYPING HEADER -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF¢er=true&vCenter=true&width=760&lines=Hey+there%2C+I'm+Akram+Rafid+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;Flutter+Developer+%F0%9F%93%B1;Portfolio+%E2%86%92+akramrafidportfolio.vercel.app;Clean+code.+Real+impact.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:5b3ef5,100:00d4a8&height=130§ion=header&text=Akram%20Rafid&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web+Developer+%7C+Flutter+Developer&descAlignY=62&descAlign=50" width="100%"/>
 
 <br/>
 
