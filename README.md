@@ -5,9 +5,9 @@
 
 # Hi there, I'm Akram Rafid 👋
 
-**CS Undergrad · Competitive Programmer · Full-Stack Developer**
+**CS Undergrad · Full-Stack Developer**
 
-*Building efficient systems and real-world projects with C++, TypeScript & Python*
+*Building efficient systems and real-world projects with C++, TypeScript, Python & Dart*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akram-rafid-rahat)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/akramrafidraha)
@@ -22,7 +22,6 @@
 ## 🧑‍💻 About Me
 
 - 🎓 CS student passionate about **algorithms, systems design & clean code**
-- 🏆 Competitive programmer — active on **Codeforces & LeetCode**
 - 🔭 Currently building: **[StudyHub](https://github.com/akramrafid/StudyHub)** — academic tools for students
 - 💬 Ask me about: **C++, Data Structures, TypeScript, OOP**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/akram-rafid-rahat)
