@@ -1,37 +1,46 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F5FF¢er=true&vCenter=true&width=700&lines=Hey%2C+I'm+Akram+Rafid+%F0%9F%91%8B;Competitive+Programmer;Full-Stack+Developer;Algorithm+Enthusiast;Building+Real+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- ANIMATED TYPING HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=61DAFB¢er=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Akram+Rafid+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;Flutter+Developer+%F0%9F%93%B1;Check+my+Portfolio+%F0%9F%94%97;Building+products+people+love+%F0%9F%9A%80;Clean+Code.+Real+Impact.)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120§ion=header&text=Akram%20Rafid&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Competitive+Programmer+%7C+Full-Stack+Developer&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61dafb,50:02569b,100:7b2ff7&height=130§ion=header&text=Akram%20Rafid&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web+Developer+%7C+Flutter+Developer&descAlignY=62&descAlign=50" width="100%"/>
+
+<br/>
+
+![Web Developer](https://img.shields.io/badge/🌐_Web_Developer-61DAFB?style=for-the-badge&color=0d1b2e&labelColor=61dafb&logoColor=000)
+![Flutter Developer](https://img.shields.io/badge/📱_Flutter_Developer-02569B?style=for-the-badge&logoColor=fff)
+[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-00F5FF?style=for-the-badge&color=0a1628&labelColor=00f5ff&logoColor=000)](https://akramrafidportfolio.vercel.app)
+![Bangladesh](https://img.shields.io/badge/📍_Bangladesh-00FF88?style=for-the-badge&color=0d2a1a&labelColor=00ff88&logoColor=000)
+![Open to Work](https://img.shields.io/badge/🤝_Open_to_Internships-7B2FF7?style=for-the-badge&logoColor=fff)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 👾 <samp>About Me</samp>
+### 👨‍💻 <samp>About Me</samp>
 
-```cpp
-class AkramRafid {
-  string role     = "CS Undergrad + Competitive Programmer";
-  string location = "Bangladesh 🇧🇩";
-  string focus    = "Algorithms · Systems · Real-World Projects";
+```typescript
+const akramRafid = {
+  role:      ["Web Developer", "Flutter Developer"],
+  location:  "Bangladesh 🇧🇩",
+  education: "CS Undergrad",
 
-  vector<string> stack = {
-    "C++", "TypeScript", "Python", "Java", "Dart"
-  };
+  webStack:     ["React", "TypeScript", "Next.js", "Node.js", "PostgreSQL"],
+  mobileStack:  ["Flutter", "Dart", "Firebase"],
 
-  string currently = "Building StudyHub + Grinding Codeforces";
-  string goal      = "Codeforces Expert (1600+) + SWE Internship";
-  bool   openTo    = true; // internships & collaborations
+  portfolio:         "https://akramrafidportfolio.vercel.app",
+  currentlyBuilding: "StudyHub — academic platform for students",
+  goal:     "Land a SWE Internship · Ship products people love",
+  openTo:   true, // internships, collaborations, open-source
 };
 ```
 
-- 🏆 Competitive Programmer — Codeforces · LeetCode · AtCoder
-- 🔭 Currently building **[StudyHub](https://github.com/akramrafid/StudyHub)** — academic tools for students
-- 💡 Obsessed with **clean algorithms, efficient systems, and shipping things that work**
+- 🌐 Building **fast, clean, scalable web apps** end-to-end
+- 📱 Crafting **smooth cross-platform mobile apps** with Flutter & Dart
+- 🔗 Portfolio: **[akramrafidportfolio.vercel.app](https://akramrafidportfolio.vercel.app)**
+- 🔭 Currently: **[StudyHub](https://github.com/akramrafid/StudyHub)** — academic tools for students
 - 🤝 Open to: **internships, collaborations, open-source contributions**
 - 📫 Reach me: **[LinkedIn](https://linkedin.com/in/akram-rafid-rahat)**
 
@@ -39,28 +48,42 @@ class AkramRafid {
 
 ---
 
-## 🛠 Tech Stack
+## 🌐 Web Development Stack
 
 <div align="center">
 
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Frameworks & Tools**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+## 📱 Flutter / Mobile Stack
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF9100?style=for-the-badge&logo=firebase&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+</div>
+
+## 🛠 Also Use
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -77,7 +100,7 @@ class AkramRafid {
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akramrafid&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akramrafid&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -95,27 +118,12 @@ class AkramRafid {
 
 ## 📌 Featured Projects
 
-| 🔥 Project | 📝 Description | 🛠 Stack | ⭐ |
-|-----------|----------------|----------|-----|
-| [📡 StudyHub](https://github.com/akramrafid/StudyHub) | Academic collaboration platform — notes, progress, peer connect | TypeScript, React | ⭐ |
-| [⚙️ CPU-Scheduling](https://github.com/akramrafid/CPU-Scheduling) | OS scheduling visualizer with interactive Gantt charts | TypeScript | ⭐ |
-| [🐍 Python-DSA](https://github.com/akramrafid/Python-Programming) | Complete DSA implementations, documented & interview-ready | Python | ⭐ |
-| [📱 Flutter-Apps](https://github.com/akramrafid/Dart-Programming) | Cross-platform mobile apps built with Flutter/Dart | Dart | ⭐ |
-
----
-
-## 🏅 Competitive Programming
-
-<div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-akramrafid-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/akramrafid)
-[![LeetCode](https://img.shields.io/badge/LeetCode-akramrafid-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/akramrafid)
-
-</div>
-
-- 📈 Target: **Codeforces Expert (1600+)**
-- 🧠 Focus areas: Graph Theory · Dynamic Programming · Segment Trees · Number Theory
-- 🔢 Solving problems **daily** — consistency over intensity
+| Project | Type | Description | Stack |
+|---------|------|-------------|-------|
+| [📡 StudyHub](https://github.com/akramrafid/StudyHub) | 🌐 Web | Academic collaboration platform | TypeScript, React |
+| [📱 Flutter Apps](https://github.com/akramrafid/Dart-Programming) | 📱 Mobile | Cross-platform apps for Android & iOS | Flutter, Dart |
+| [⚙️ CPU-Scheduling](https://github.com/akramrafid/CPU-Scheduling) | 🌐 Web | OS scheduling visualizer with Gantt charts | TypeScript |
+| [🐍 Python-DSA](https://github.com/akramrafid/Python-Programming) | 📚 DSA | Data structures & algorithms, interview-ready | Python |
 
 ---
 
@@ -123,7 +131,7 @@ class AkramRafid {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akramrafid&custom_title=Akram's%20Contribution%20Graph&bg_color=1a1b27&color=00f5ff&line=7b2ff7&point=ff2d78&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akramrafid&custom_title=Akram's%20Contribution%20Graph&bg_color=1a1b27&color=61dafb&line=02569b&point=7b2ff7&area=true&hide_border=true)
 
 </div>
 
@@ -133,11 +141,12 @@ class AkramRafid {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-Visit_Now-00F5FF?style=for-the-badge&color=0a1628&labelColor=00f5ff&logoColor=000)](https://akramrafidportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akram-rafid-rahat)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akramrafidraha)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akram_rafid_)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/akramrafidrahat)
-![Profile Views](https://komarev.com/ghpvc/?username=akramrafid&color=00f5ff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=akramrafid&color=61dafb&style=for-the-badge)
 
 </div>
 
@@ -145,8 +154,8 @@ class AkramRafid {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100§ion=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:02569b,100:61dafb&height=100§ion=footer" width="100%"/>
 
-*⭐ If you find my work useful, a star means the world — it keeps me building.*
+*⭐ Star my repos if they helped you — it keeps me building.*
 
 </div>
